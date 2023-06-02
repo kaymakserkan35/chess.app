@@ -1,0 +1,380 @@
+C:\Users\Asus\Desktop\chessApp.final\ChessApp.final\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.exe
+C:\Users\Asus\Desktop\chessApp.final\ChessApp.final\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.deps.json
+C:\Users\Asus\Desktop\chessApp.final\ChessApp.final\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.runtimeconfig.json
+C:\Users\Asus\Desktop\chessApp.final\ChessApp.final\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.dll
+C:\Users\Asus\Desktop\chessApp.final\ChessApp.final\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.pdb
+C:\Users\Asus\Desktop\chessApp.final\ChessApp.final\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\chessApp.final\ChessApp.final\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.MainForm.resources
+C:\Users\Asus\Desktop\chessApp.final\ChessApp.final\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\chessApp.final\ChessApp.final\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\chessApp.final\ChessApp.final\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\chessApp.final\ChessApp.final\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.AssemblyInfo.cs
+C:\Users\Asus\Desktop\chessApp.final\ChessApp.final\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\chessApp.final\ChessApp.final\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.dll
+C:\Users\Asus\Desktop\chessApp.final\ChessApp.final\ChessApp.final\obj\Debug\net6.0-windows\refint\ChessApp.final.dll
+C:\Users\Asus\Desktop\chessApp.final\ChessApp.final\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.pdb
+C:\Users\Asus\Desktop\chessApp.final\ChessApp.final\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.genruntimeconfig.cache
+C:\Users\Asus\Desktop\chessApp.final\ChessApp.final\ChessApp.final\obj\Debug\net6.0-windows\ref\ChessApp.final.dll
+C:\Users\Asus\Desktop\chessApp.final\ChessApp.final\ChessApp.final\bin\Debug\net6.0-windows\MiniChessBoard.deps.json
+C:\Users\Asus\Desktop\chessApp.final\ChessApp.final\ChessApp.final\bin\Debug\net6.0-windows\MiniChessBoard.runtimeconfig.json
+C:\Users\Asus\Desktop\chessApp.final\ChessApp.final\ChessApp.final\bin\Debug\net6.0-windows\MiniChessBoard.exe
+C:\Users\Asus\Desktop\chessApp.final\ChessApp.final\ChessApp.final\bin\Debug\net6.0-windows\MiniChessBoard.dll
+C:\Users\Asus\Desktop\chessApp.final\ChessApp.final\ChessApp.final\bin\Debug\net6.0-windows\MiniChessBoard.pdb
+C:\Users\Asus\Desktop\chessApp.final\ChessApp.final\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.CopyComplete
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.ChessPieces.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.MainForm.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.AssemblyInfo.cs
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.exe
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.deps.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.runtimeconfig.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.pdb
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1\ChessApp.final\obj\Debug\net6.0-windows\refint\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.pdb
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.genruntimeconfig.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1\ChessApp.final\obj\Debug\net6.0-windows\ref\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.Controls.AChessBoardControl.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1 - Copy\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1 - Copy\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.ChessPieces.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1 - Copy\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.Controls.AChessBoardControl.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1 - Copy\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.Controls.ChessBoardControl.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1 - Copy\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.MainForm.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1 - Copy\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1 - Copy\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1 - Copy\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1 - Copy\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.AssemblyInfo.cs
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1 - Copy\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1 - Copy\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1 - Copy\ChessApp.final\obj\Debug\net6.0-windows\refint\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1 - Copy\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.pdb
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1 - Copy\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.exe
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1 - Copy\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.deps.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1 - Copy\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.runtimeconfig.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1 - Copy\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1 - Copy\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.pdb
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1 - Copy\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.genruntimeconfig.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1 - Copy\ChessApp.final\obj\Debug\net6.0-windows\ref\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1 - Copy - Copy\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1 - Copy - Copy\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.ChessPieces.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1 - Copy - Copy\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.Controls.AChessBoardControl.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1 - Copy - Copy\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.Controls.ChessBoardControl.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1 - Copy - Copy\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.MainForm.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1 - Copy - Copy\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1 - Copy - Copy\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1 - Copy - Copy\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1 - Copy - Copy\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.AssemblyInfo.cs
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1 - Copy - Copy\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1 - Copy - Copy\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.deps.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1 - Copy - Copy\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.runtimeconfig.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1 - Copy - Copy\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.exe
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1 - Copy - Copy\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.exe
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1 - Copy - Copy\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.deps.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1 - Copy - Copy\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.runtimeconfig.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1 - Copy - Copy\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1 - Copy - Copy\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.pdb
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1 - Copy - Copy\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1 - Copy - Copy\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.pdb
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1 - Copy - Copy\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.CopyComplete
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1 - Copy - Copy\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1 - Copy - Copy\ChessApp.final\obj\Debug\net6.0-windows\refint\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1 - Copy - Copy\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.pdb
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1 - Copy - Copy\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.genruntimeconfig.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -1 - Copy - Copy\ChessApp.final\obj\Debug\net6.0-windows\ref\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -5\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.deps.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -5\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.runtimeconfig.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -5\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.exe
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -5\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.exe
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -5\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.deps.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -5\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.runtimeconfig.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -5\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -5\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.pdb
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -5\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -5\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.pdb
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -5\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -5\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.ChessPieces.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -5\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.Controls.AChessBoardControl.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -5\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.Controls.ChessBoardControl.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -5\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.MainForm.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -5\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -5\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -5\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -5\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.AssemblyInfo.cs
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -5\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -5\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.CopyComplete
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -5\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -5\ChessApp.final\obj\Debug\net6.0-windows\refint\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -5\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.pdb
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -5\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.genruntimeconfig.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -5\ChessApp.final\obj\Debug\net6.0-windows\ref\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -6\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.deps.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -6\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.runtimeconfig.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -6\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.exe
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -6\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.exe
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -6\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.deps.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -6\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.runtimeconfig.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -6\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -6\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.pdb
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -6\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -6\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.pdb
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -6\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -6\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.ChessPieces.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -6\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.Controls.AChessBoardControl.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -6\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.Controls.ChessBoardControl.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -6\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.MainForm.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -6\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -6\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -6\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -6\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.AssemblyInfo.cs
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -6\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -6\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.CopyComplete
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -6\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -6\ChessApp.final\obj\Debug\net6.0-windows\refint\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -6\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.pdb
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -6\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.genruntimeconfig.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -6\ChessApp.final\obj\Debug\net6.0-windows\ref\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -7\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.deps.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -7\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.runtimeconfig.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -7\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.exe
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -7\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.exe
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -7\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.deps.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -7\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.runtimeconfig.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -7\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -7\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.pdb
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -7\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -7\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.pdb
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -7\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -7\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.ChessPieces.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -7\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.Controls.AChessBoardControl.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -7\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.Controls.ChessBoardControl.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -7\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.MainForm.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -7\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -7\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -7\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -7\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.AssemblyInfo.cs
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -7\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -7\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.CopyComplete
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -7\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -7\ChessApp.final\obj\Debug\net6.0-windows\refint\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -7\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.pdb
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -7\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.genruntimeconfig.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -7\ChessApp.final\obj\Debug\net6.0-windows\ref\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -8\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.deps.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -8\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.runtimeconfig.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -8\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.exe
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -8\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.exe
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -8\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.deps.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -8\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.runtimeconfig.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -8\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -8\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.pdb
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -8\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -8\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.pdb
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -8\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -8\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.ChessPieces.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -8\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.Controls.AChessBoardControl.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -8\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.Controls.ChessBoardControl.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -8\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.MainForm.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -8\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -8\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -8\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -8\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.AssemblyInfo.cs
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -8\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -8\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.CopyComplete
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -8\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -8\ChessApp.final\obj\Debug\net6.0-windows\refint\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -8\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.pdb
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -8\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.genruntimeconfig.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -8\ChessApp.final\obj\Debug\net6.0-windows\ref\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -10\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.deps.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -10\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.runtimeconfig.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -10\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.exe
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -10\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.exe
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -10\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.deps.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -10\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.runtimeconfig.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -10\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -10\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.pdb
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -10\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -10\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.pdb
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -10\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -10\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.ChessPieces.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -10\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.Controls.AChessBoardControl.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -10\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.Controls.ChessBoardControl.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -10\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.MainForm.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -10\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -10\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -10\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -10\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.AssemblyInfo.cs
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -10\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -10\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.CopyComplete
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -10\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -10\ChessApp.final\obj\Debug\net6.0-windows\refint\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -10\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.pdb
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -10\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.genruntimeconfig.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -10\ChessApp.final\obj\Debug\net6.0-windows\ref\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -11\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -11\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.ChessPieces.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -11\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.Controls.AChessBoardControl.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -11\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.Controls.ChessBoardControl.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -11\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.MainForm.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -11\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -11\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -11\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -11\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.AssemblyInfo.cs
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -11\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -11\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -11\ChessApp.final\obj\Debug\net6.0-windows\refint\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -11\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.pdb
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -11\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.deps.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -11\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.runtimeconfig.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -11\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.exe
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -11\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.exe
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -11\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.deps.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -11\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.runtimeconfig.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -11\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -11\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.pdb
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -11\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -11\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.pdb
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -11\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.CopyComplete
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -11\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.genruntimeconfig.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -11\ChessApp.final\obj\Debug\net6.0-windows\ref\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -11\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.Controls.AChessBoardControl2.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -12\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.deps.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -12\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.runtimeconfig.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -12\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.exe
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -12\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.exe
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -12\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.deps.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -12\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.runtimeconfig.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -12\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -12\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.pdb
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -12\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -12\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.pdb
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -12\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -12\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.ChessPieces.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -12\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.Controls.AChessBoardControl.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -12\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.Controls.AChessBoardControl2.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -12\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.Controls.ChessBoardControl.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -12\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.MainForm.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -12\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -12\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -12\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -12\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.AssemblyInfo.cs
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -12\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -12\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.CopyComplete
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -12\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -12\ChessApp.final\obj\Debug\net6.0-windows\refint\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -12\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.pdb
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -12\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.genruntimeconfig.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -12\ChessApp.final\obj\Debug\net6.0-windows\ref\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -13\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.deps.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -13\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.runtimeconfig.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -13\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.exe
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -13\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.exe
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -13\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.deps.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -13\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.runtimeconfig.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -13\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -13\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.pdb
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -13\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -13\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.pdb
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -13\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -13\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.ChessPieces.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -13\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.Controls.AChessBoardControl.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -13\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.Controls.AChessBoardControl2.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -13\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.Controls.ChessBoardControl.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -13\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.MainForm.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -13\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -13\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -13\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -13\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.AssemblyInfo.cs
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -13\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -13\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.CopyComplete
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -13\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -13\ChessApp.final\obj\Debug\net6.0-windows\refint\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -13\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.pdb
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -13\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.genruntimeconfig.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -13\ChessApp.final\obj\Debug\net6.0-windows\ref\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -17\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.deps.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -17\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.runtimeconfig.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -17\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.exe
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -17\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.exe
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -17\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.deps.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -17\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.runtimeconfig.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -17\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -17\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.pdb
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -17\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -17\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.pdb
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -17\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -17\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.ChessPieces.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -17\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.Controls.AChessBoardControl.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -17\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.Controls.AChessBoardControl2.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -17\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.Controls.ChessBoardControl.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -17\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.MainForm.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -17\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -17\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -17\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -17\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.AssemblyInfo.cs
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -17\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -17\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.CopyComplete
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -17\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -17\ChessApp.final\obj\Debug\net6.0-windows\refint\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -17\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.pdb
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -17\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.genruntimeconfig.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -17\ChessApp.final\obj\Debug\net6.0-windows\ref\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -18\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.deps.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -18\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.runtimeconfig.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -18\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.exe
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -18\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.exe
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -18\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.deps.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -18\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.runtimeconfig.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -18\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -18\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.pdb
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -18\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -18\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.pdb
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -18\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -18\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.ChessPieces.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -18\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.Controls.AChessBoardControl.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -18\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.Controls.AChessBoardControl2.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -18\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.Controls.ChessBoardControl.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -18\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.MainForm.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -18\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -18\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -18\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -18\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.AssemblyInfo.cs
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -18\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -18\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.CopyComplete
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -18\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -18\ChessApp.final\obj\Debug\net6.0-windows\refint\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -18\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.pdb
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -18\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.genruntimeconfig.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -18\ChessApp.final\obj\Debug\net6.0-windows\ref\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -19\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.deps.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -19\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.runtimeconfig.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -19\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.exe
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -19\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.exe
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -19\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.deps.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -19\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.runtimeconfig.json
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -19\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -19\ChessApp.final\bin\Debug\net6.0-windows\ChessApp.final.pdb
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -19\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -19\ChessApp.final\bin\Debug\net6.0-windows\MiniChess.pdb
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -19\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -19\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.ChessPieces.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -19\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.Controls.AChessBoardControl.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -19\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.Controls.AChessBoardControl2.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -19\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.Controls.ChessBoardControl.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -19\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.MainForm.resources
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -19\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -19\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -19\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -19\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.AssemblyInfo.cs
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -19\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -19\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.csproj.CopyComplete
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -19\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -19\ChessApp.final\obj\Debug\net6.0-windows\refint\ChessApp.final.dll
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -19\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.pdb
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -19\ChessApp.final\obj\Debug\net6.0-windows\ChessApp.final.genruntimeconfig.cache
+C:\Users\Asus\Desktop\chess\chessApp.final\ChessApp.final -19\ChessApp.final\obj\Debug\net6.0-windows\ref\ChessApp.final.dll

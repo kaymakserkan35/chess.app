@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ChessPositionAnalyses/1.0.0": {
+        "dependencies": {
+          "MiniChess": "1.0.0"
+        },
+        "runtime": {
+          "ChessPositionAnalyses.dll": {}
+        }
+      },
+      "MiniChess/1.0.0": {
+        "runtime": {
+          "MiniChess.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChessPositionAnalyses/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MiniChess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
